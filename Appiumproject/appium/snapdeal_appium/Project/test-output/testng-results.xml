@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-31T21:43:20 IST" name="Default suite" finished-at="2025-10-31T21:44:04 IST" duration-ms="44115">
+    <groups>
+    </groups>
+    <test started-at="2025-10-31T21:43:20 IST" name="Default test" finished-at="2025-10-31T21:44:04 IST" duration-ms="44115">
+      <class name="app_test.Appium_Snapdeal_Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:app_test.Appium_Snapdeal_Login@34e9fd99]" started-at="2025-10-31T21:43:20 IST" name="setup" finished-at="2025-10-31T21:43:32 IST" duration-ms="11929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="skipForNowTest()[pri:1, instance:app_test.Appium_Snapdeal_Login@34e9fd99]" started-at="2025-10-31T21:43:32 IST" name="skipForNowTest" finished-at="2025-10-31T21:44:01 IST" duration-ms="28812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skipForNowTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:app_test.Appium_Snapdeal_Login@34e9fd99]" started-at="2025-10-31T21:44:01 IST" name="tearDown" finished-at="2025-10-31T21:44:04 IST" duration-ms="3158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- app_test.Appium_Snapdeal_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
