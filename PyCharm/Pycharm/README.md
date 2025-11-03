@@ -1,1 +1,0 @@
-# Pycharm_Snapdeal
